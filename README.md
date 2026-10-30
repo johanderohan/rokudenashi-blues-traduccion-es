@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/super-nintendo/rokudenashi-blues)**.
+
 Traducción al **español de España** de *Rokudenashi Blues: Taiketsu! Tokyo Shitennou*
 (Super Famicom, Bandai, 1994), el juego de lucha y aventura basado en el manga de Masanori Morita:
 Taison Maeda, alumno del Instituto Teiken que quiere ser campeón de boxeo, se va metiendo en una
